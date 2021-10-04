@@ -1,16 +1,20 @@
 # Boas vindas ao repositório do projeto App de Receitas!
-Este projeto, teve como objetivo implementar testes utilizando o **Jest** para verificar se uma série de funções funcionavam corretamente. Foi colocado em prática o conteúdo que aprendido sobre Jest assíncrono e Mocks aplicados a testes em Javascript. 
+Com esse projeto, encerrrei o módulo de Desenvolvimento Front-End na Trybe. Aqui pude aplicar todos os conhecimentos adquiridos ao longo de minha formação. E não digo apenas conhecimentos técnicos. Mas também os relacionados a Soft Skills. Pude colocar em prova a minha capacidade de trabalhar em equipe. Aprimorei minhas habilidades de comunição, liderança e alto gerenciamento.
 
-Os principais desafios e aprendizados que tirei desse projeto foi em relação à mocagem de funções. Esse foi um conteúdo que a principio achei bastante abstrato mas que durante a execução do projeto pude entender bem qual a sua motivação. Vejamos, se eu utilizo em minha aplicação um conteúdo de terceiros como uma API, o que fazer se houver a necessidade de testar minha aplicação mas naquele momento o conteúdo externo está fora do ar? É aí que entra a mocagem que tem a função de simular a requisção da API, na execução do teste.
+No mundo da programação, indepente da nossa senioridade, a gente nunca vai saber de tudo. Nesse trabalho, também coloquei em prova um dos pilares da metodologia ativa de aprendizado. "Aprender a aprender". Saber ir atraz das informações nos locais certos, saber o momento certo de pedir ajuda e entender também que a nossa mente em algum momento precisará de um descanso. Esses são pontos siguinificativos que devem ser levados em consideração, no momento em que estamos desenvolvendo uma aplicação e paramos em um ponto em que não conseguimos avançar.
+
+É networking que fala? Desenvolvi esse projeto em parceria com pessoas com as quais aprendi muito.
 
 ---
 
 ## Habilidades
 
-- Escrever testes para funções assíncronas;
-- Aplicar os seus conhecimentos acerca de testes utilizando o Jest;
-- "Mockar" funções;
-- "Mockar" APIs;
+- Traballhar em um time usando metodologias ágeis de desenvolvimento
+- Utilização de Context API do React para gerenciar estado
+- Utilização do React Hook useState
+- Utilização do React Hook useContext
+- Utilizar do React Hook useEffect
+- Criação de Hooks customizados
 
 ---
 
