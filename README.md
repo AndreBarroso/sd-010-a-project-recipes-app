@@ -39,11 +39,11 @@ cd projeto-andre
 
 3. Faça o clone do projeto executando o comando a seguir:
 ```bash
-git clone https://github.com/AndreBarroso/sd-010-a-project-jest.git
+git clone https://github.com/AndreBarroso/sd-010-a-project-recipes-app.git
 ```
 4. Acesse a pasta criada executando o comando a seguir:
 ```bash
-cd sd-010-a-project-jest
+cd sd-010-a-project-recipes-app
 ```
 
 5. Instale as dependências do projeto executando:
@@ -51,10 +51,14 @@ cd sd-010-a-project-jest
 npm install;
 ```
 
-6. Para rodar os testes, execute o comando abaixo:
+6. Para rodar o projeto execute:
 ```bash
-npm test;
+npm start;
 ```
+7. Após o passo anterior, a aplicação iniciará em seu navegador.
+Na tela de login, digite qualquer email válido e qualquer senha com ao menos 8 dígitos.
+
+
 Para quaisquer dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
 ---
