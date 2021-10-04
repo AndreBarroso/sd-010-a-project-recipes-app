@@ -11,8 +11,13 @@ Foi uma decisão que considero bastante acertada, pois solidificou nosso conheci
 Como principais desafios, deixo registrado a identificação dos problemas envolvendo assincronidade nas requisições de APIs e  . Esse problemas ocorriam principalmente devido a conflitos relacionados à logica envolvendo as requições dos dados nas APIs com o ciclo de vida dos componentes React e endpoints para determinadas ações escritos incorretamente.
 
 ---
+## Resultado Final
 
-## Habilidades
+![gif do app funcionando](https://github.com/AndreBarroso/sd-010-a-project-recipes-app/blob/master/src/images/appReceitas.gif)
+
+---
+
+## Habilidades Aplicadas
 
 - Traballhar em um time usando metodologias ágeis de desenvolvimento
 - Utilização de Context API do React para gerenciar estado
@@ -64,6 +69,7 @@ Para quaisquer dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.
 ---
 
 ### Lista de requisitos
+Abaixo encontra-se a lista de requisitos solicitados para a elaboração do projeto.
 
 ## Tela de login
 
