@@ -1,14 +1,13 @@
 # Boas vindas ao repositório do projeto App de Receitas!
-Com esse projeto, encerrrei o módulo de Desenvolvimento Front-End na Trybe. Aqui pude aplicar todos os conhecimentos adquiridos ao longo de minha formação. E não digo apenas conhecimentos técnicos, mas também os relacionados a Soft Skills. Pude colocar em prova a minha capacidade de trabalhar em equipe. Aprimorei minhas habilidades de comunicação, liderança e auto gerenciamento.
+Esse foi o último projeto do Bloco de Desenvolvimento Front-End realizado na Trybe. Ele teve como objetivo, desenvolver um app de receitas com o auxílio do React como Framework.
 
-No mundo da programação, indepente da nossa senioridade, a gente nunca vai saber de tudo. Nesse trabalho, também coloquei em prova um dos pilares da metodologia ativa de aprendizado. "Aprender a aprender". Saber ir atrás das informações nos locais certos, saber o momento certo de pedir ajuda e entender também que a nossa mente em algum momento precisará de um descanso. Esses são pontos siginificativos que devem ser levados em consideração, no momento em que estamos desenvolvendo uma aplicação e paramos em um ponto em que não conseguimos avançar.
+Foi um projeto feito em equipe, com [Felipe Muller](https://www.linkedin.com/in/felipeavmuller/), [Michael Petterson](https://www.linkedin.com/in/felipeavmuller/) e [Tiago Santos](https://www.linkedin.com/in/tiago-nogueira-dos-santos/), utilizando a abordagem de metodologias ágeis para seu desenvolvimento.
 
-É networking que fala? Desenvolvi esse projeto em parceria com pessoas com as quais aprendi muito. Todas tiveram papeis fundamentais no resultado final da aplicação. Nos tornamos bons amigos e todos somos referência uns dos outros na necessicidade de algum auxílio, parcerias e até eventuais indicações. Alô [Felipe Muller](https://www.linkedin.com/in/felipeavmuller/), [Michael Petterson](https://www.linkedin.com/in/felipeavmuller/) e  [Tiago Santos](https://www.linkedin.com/in/tiago-nogueira-dos-santos/).
+Inicialmente, fizemos um alinhamento sobre qual a abordagem a ser utilizada no desenvolvimento da aplicação. Utilizar componentes com Classes e Redux para o gerenciamento de estados ou React funcional com context API e Hooks.
 
-Esse projeto teve como objetivo desenvolver um app de receitas, com o auxílio do React como Framework. Como primeiro desafio, tivemos de decidir qual a abordagem utilizar na escrita dos componentes. Utilizar componetes com classes e Redux para o gerenciamento de estados, ou React funcional, context API e Hooks. 
-Optamos então pela segunda opção para reforçar nosso apredendizado, pois até aquele momento, havíamos desenolvidos apenas um projeto com essas ferramentas.
-Foi uma decisão que considero bastante acertada, pois solidificou nosso conhecimento e tais ferramentas atenderam muito bem às nossas necessidades.
-Como principais desafios, deixo registrado a identificação dos problemas envolvendo assincronidade nas requisições de APIs e  . Esse problemas ocorriam principalmente devido a conflitos relacionados à logica envolvendo as requições dos dados nas APIs com o ciclo de vida dos componentes React e endpoints para determinadas ações escritos incorretamente.
+Optamos então, pela segunda opção para reforçar nosso aprendizado, pois até aquele momento, havíamos desenvolvido apenas um projeto com essas ferramentas. Foi uma decisão que considero bastante acertada, pois solidificou nosso conhecimento e tais ferramentas atenderam muito bem às nossas necessidades.
+
+Como principais desafios, deixo registrado aqui a identificação dos problemas envolvendo assincronicidade nas requisições de APIs . Esse problemas ocorriam principalmente devido a conflitos relacionados à lógica envolvendo as requisições dos dados nas APIs, com o ciclo de vida dos componentes React. Endpoints escritos incorretamente para determinadas ações, também estavam entre as causas desses problemas.
 
 ---
 ## Resultado Final
