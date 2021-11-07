@@ -12,7 +12,7 @@ Como principais desafios, deixo registrado aqui a identificação dos problemas 
 ---
 ## Resultado Final
 
-[gif do app funcionando](https://github.com/AndreBarroso/sd-010-a-project-recipes-app/blob/master/src/images/appReceitas.gif)
+![gif do app funcionando](https://github.com/AndreBarroso/sd-010-a-project-recipes-app/blob/master/src/images/appReceitas.gif)
 
 ---
 
